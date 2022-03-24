@@ -114,4 +114,16 @@ p{
 .cards i{  
     padding-top: 2.5rem;
     font-size: 80px;
+    color: white;
+}
+
+.cards a{
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;
+    min-height: 50px;
+    padding-top: 20px;
 }
