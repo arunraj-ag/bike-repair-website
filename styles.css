@@ -48,7 +48,6 @@ main{
     width: 30%;
     border-radius: 5px;
     text-align: center;
-    padding-top: 20px;
 }
 .cardTwo{
     background-image: url(imgs/image-background-card2-b.jpg);
@@ -59,7 +58,6 @@ main{
     width: 30%;
     border-radius: 5px;
     text-align: center;
-    padding-top: 20px;
 }
 .cardThree{
     background-image: url(imgs/image-background-card3-b.jpg);
@@ -70,7 +68,11 @@ main{
     width: 30%; 
     border-radius: 5px;
     text-align: center;
-    padding-top: 20px;
+}
+
+.cardOne, .cardTwo, .cardThree{
+    padding: 10px 10px 10px 10px;
+    box-sizing: border-box;
 }
 
 .herbox1{
