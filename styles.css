@@ -26,12 +26,25 @@ header{
     padding-bottom: 20px;
 }
 
+a{
+    color: white;
+    text-decoration: none;
+}
 
 main{
     min-height: 300px;
     display: flex;
     align-items: center;/* The align items only work when main 
                             has height or min-height*/
+}
+
+.book_online{
+    background-color: white;
+    border-radius: 3px;
+    color: black;
+    padding: 10px;
+    display: inline-block;
+    margin-top: 20px;
 }
 
 .cards{
