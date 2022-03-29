@@ -45,6 +45,7 @@ main{
     padding: 10px;
     display: inline-block;
     margin-top: 20px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.118);
 }
 
 .cards{
