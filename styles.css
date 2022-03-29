@@ -41,7 +41,7 @@ main{
 .book_online{
     background-color: white;
     border-radius: 3px;
-    color: black;
+    color: #2B86C5;
     padding: 10px;
     display: inline-block;
     margin-top: 20px;
@@ -121,9 +121,9 @@ p{
 }
 
 .cards p{
-        font-size: 0.8rem;
-        line-height: 1.5rem;
-        margin-bottom: 0.5rem;
+    font-size: 0.8rem;
+    line-height: 1.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .cards i{  
