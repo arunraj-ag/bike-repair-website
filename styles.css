@@ -45,7 +45,7 @@ main{
     padding: 10px;
     display: inline-block;
     margin-top: 20px;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.118);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.465);
 }
 
 .cards{
@@ -62,6 +62,7 @@ main{
     width: 30%;
     border-radius: 5px;
     text-align: center;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.465);
 }
 .cardTwo{
     background-image: url(imgs/image-background-card2-b.jpg);
@@ -72,6 +73,7 @@ main{
     width: 30%;
     border-radius: 5px;
     text-align: center;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.465);
 }
 .cardThree{
     background-image: url(imgs/image-background-card3-b.jpg);
@@ -82,6 +84,7 @@ main{
     width: 30%; 
     border-radius: 5px;
     text-align: center;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.465);
 }
 
 .cardOne, .cardTwo, .cardThree{
@@ -107,6 +110,7 @@ h1{
     font-family: Russo One,sans-serif;
     font-size: 3.25rem;
     margin-bottom: 1rem;
+    text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.465);
 }
 
 h2{ 
