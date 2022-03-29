@@ -38,7 +38,7 @@ main{
                             has height or min-height*/
 }
 
-.book_online{
+.my_button{
     background-color: white;
     border-radius: 3px;
     color: #2B86C5;
@@ -146,4 +146,9 @@ footer{
     text-align: center;
     min-height: 50px;
     padding-top: 20px;
+}
+
+nav a.my_button{
+    margin-left: 30px;
+    color:#FF3CAC;
 }
